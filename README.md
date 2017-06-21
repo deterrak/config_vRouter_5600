@@ -1,6 +1,6 @@
 # config_vRouter_5600
 
-./config_vRouter_5600.py -i <targetIp> -c <commandFile> -l <logFile>   
+./config_vRouter_5600.py -i '<targetIp> -c <commandFile> -l <logFile>'   
    -u      -username   
    -p      -usewr password   
    -i      -the IPv4 adderss   
