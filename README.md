@@ -1,11 +1,11 @@
 # config_vRouter_5600
 
-./config_vRouter_5600.py -i <targetIp> -c <commandFile> -l <logFile>
-   -u      -username
-   -p      -usewr password
-   -i      -the IPv4 adderss
-   -c      -the file that lists the commands that will be run. Default = CMD.txt
-   -l      -the logFile to record the interactive session
+./config_vRouter_5600.py -i <targetIp> -c <commandFile> -l <logFile>   
+   -u      -username   
+   -p      -usewr password   
+   -i      -the IPv4 adderss   
+   -c      -the file that lists the commands that will be run. Default = CMD.txt   
+   -l      -the logFile to record the interactive session   
 
 # Sample commandFile
 
